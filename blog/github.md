@@ -7,9 +7,6 @@
 ![logo](../_media/01.png ':size=993x519')  
  说明网络连接正常。
 
-二，然后再 ping一下github·com 
-C:\Users\Bai>ping github.com 
-正在 Ping github . com 【 1 11 . 13 . 100 . 91 』 具有 32 字节的数据：请求超时。请求超时。请求超时。请求超时。 1 11 . 1 3 . 100 . 91 的 Ping 统计信息：数据包：已发送二 4 ，已接收二 0 ，丢失二 4 ( 1 00 ％丢失） , 确实 Ping 不通。因此怀疑是：本地 0NS 无法解析导致的。
 ![logo](../_media/02.png ':size=714x501')  
 
 三，错误解决 打开C:\Windows\System32\drivers\etc\hosts，内容如下：
@@ -17,6 +14,10 @@ C:\Users\Bai>ping github.com
 ![logo](../_media/03.png ':size=703x398') 
 
 ![logo](../_media/04.png ':size=498x152') 
+
+ 192.30.255.112 github.com git     
+ 185.31.16.184 github.global.ssl.fastly.net
+ 
 
 ![logo](../_media/05.png ':size=673x473') 
 

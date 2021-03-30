@@ -141,4 +141,8 @@ docsify serve docs
 
 [docsify](https://docsify.js.org/#/zh-cn/quickstart)还有很多功能需有待我们探索，今天只是带大家简单的入门，更多内容可以去官网学习。又是努力奋斗的一天，打工人，加油！
 
+## 侧边栏折叠
+  
+[docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)
+
 
